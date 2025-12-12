@@ -83,7 +83,6 @@ weather-automation/
 │   ├── weather_report_YYYYMMDD_HHMMSS.txt
 ├── Drivers                        # Drivers
 ├── requirements.txt               # Python dependencies
-├── run_tests.py                  # Python test runner
 ├── README.md                     # This file
 └── .gitignore                    # Git ignore file
 ```
