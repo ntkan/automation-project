@@ -1,0 +1,12 @@
+{
+  "wearther_daily": {
+    "unit-setting": "Imperial (°F, mph, in)",
+    "location": "Ho Chi Minh City",
+    "menu-item": "Daily"
+  },
+  "weather_hourly": {
+    "unit-setting": "Imperial (°F, mph, in)",
+    "location": "Ho Chi Minh City",
+    "menu-item": "Now"
+  }
+}
